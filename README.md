@@ -1,100 +1,90 @@
 
 # Web Development Projects - Prodigy InfoTech Internship
 
-Welcome to my Web Development Projects repository, created during my internship at **Prodigy InfoTech**. This repository contains two fully functional and responsive projects: a **Stopwatch** application and a **Weather App**, built using HTML, CSS, and JavaScript.
+
+
+
+Welcome to my collection of front-end web development projects! This repository showcases a variety of web applications built with HTML, CSS, JavaScript, and React.js. Each project highlights different design approaches and features. 🚀
 
 ---
 
-## 🚀 Projects Overview
+## 📌 Projects
 
-### 1. ⏱️ Stopwatch Application
+### 🎮 1. RESPONSIVE LANDING PAGE
 
-A clean and interactive stopwatch with **Start**, **Stop**, and **Reset** functionalities.
+A responsive landing page designed for a gaming console e-commerce platform. It includes product previews, service offerings, and contact links with smooth scroll and dark mode toggle.
 
-#### 🌟 Features:
-- Digital timer display (HH:MM:SS)
-- Functional start/stop/reset buttons
-- Responsive and stylish UI
-- Easy to integrate into other projects
+**Features:**
+- Responsive layout
+- Dark mode toggle
+- Scroll animations with ScrollReveal.js
+- Stylish UI with Boxicons
 
-#### 📸 Screenshot:
-![Stopwatch Screenshot](https://cdn-icons-png.flaticon.com/512/8671/8671450.png)
 
-#### 🛠️ Tech Stack:
-- HTML
-- CSS
-- JavaScript
 
 ---
 
-### 2. ☁️ Weather App
+### ⏱️ 2. Stopwatch Web App
+An interactive stopwatch with Start, Stop, Reset, and Lap features.
 
-A modern weather application that fetches real-time weather data using **OpenWeatherMap API** (or other API if used).
+**Features:**
+- Real-time timer updates
+- Lap recording functionality
+- Clean and intuitive UI
 
-#### 🌟 Features:
-- Search weather by city name
-- Dynamic weather icons
-- Displays temperature, humidity, and wind speed
-- Input validation and error message on invalid city name
-- Responsive design
 
-#### 📸 Screenshot:
-![Weather App Icon](https://i.pinimg.com/736x/b6/12/41/b61241b089a9a5ad6c721e4651f84402.jpg)
-
-#### 🛠️ Tech Stack:
-- HTML
-- CSS
-- JavaScript
-- Weather API (e.g., OpenWeatherMap)
 
 ---
 
-## 📁 Folder Structure
+### ❌⭕ 3. Tic-Tac-Toe Game (React.js)
+A responsive and interactive Tic-Tac-Toe game built using React.js.
 
-prodigyinfotechwebdev/
-├── stopwatch/
-│ ├── index.html
-│ ├── style.css
-│ ├── script.js
-│ └── images/
-│ ├── start.png
-│ ├── stop.png
-│ └── reset.png
-├── weather-app/
-│ ├── index.html
-│ ├── style.css
-│ ├── script.js
-│ └── images/
-│ ├── search.png
-│ ├── humidity.png
-│ └── wind.png
---
+**Features:**
+- React state management
+- Dynamic winner detection
+- Fully responsive layout
+- SEO optimized with meta tags
 
-## 🧠 What I Learned
 
-- DOM manipulation and event handling
-- API integration using JavaScript `fetch`
-- CSS styling for responsive design
-- Building UI/UX friendly interfaces
-- Project structuring and GitHub version control
 
 ---
 
-## 🏢 About Prodigy InfoTech
+### 🌦️ 4. Weather Application (React.js)
+A modern weather forecasting application built using React.js that fetches real-time weather data.
 
-Prodigy InfoTech offers virtual internships to help students and aspiring developers strengthen their portfolio and practical experience through real-world project tasks in Web Development, Data Science, AI, and more.
+**Features:**
+- Responsive UI
+- Clean and professional design
+- Meta tags for SEO and social sharing
+- JSON-LD structured data
 
-Website: [https://prodigyinfotech.dev](https://prodigyinfotech.dev)
 
----
-
-## 📬 Connect With Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/)
-- 📧 Email: your-email@example.com
 
 ---
 
-## 📜 License
+## 🛠️ Technologies Used
 
-This project is open source and available under the [MIT License](LICENSE).
+- HTML5, CSS3, JavaScript
+- React.js
+- Boxicons
+- ScrollReveal.js
+- Responsive Web Design
+- Meta SEO Tags & Open Graph
+- JSON-LD Structured Data
+
+---
+
+
+
+---
+
+## 📄 License
+
+This repository is for educational and showcase purposes.
+
+---
+
+> 💡 *Feel free to fork and improve these projects. Contributions are welcome!*
+
+
+
